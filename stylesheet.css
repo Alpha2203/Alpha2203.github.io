@@ -7,5 +7,6 @@ h2 {
 ul {
     list-style-type: none;
     background: azure;
+    width: 100px;
 }
 

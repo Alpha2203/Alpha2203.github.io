@@ -5,10 +5,10 @@ h2 {
   color: Lavender;
 }
 ul {
-    list-style-type: none;
+    list-style-type: none;/*remove bullets*/
     background: azure;
     width: 100px; 
-    padding: 0;
+    padding: 0;/*remove padding from the left*/
 }
 
 
@@ -19,4 +19,7 @@ li a:hover {
 
 li a: {
   display: block;
+  text-decoration: none;
+  color: slateblue
+  font-family: Arial;
 }

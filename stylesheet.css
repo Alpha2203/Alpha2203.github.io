@@ -8,10 +8,15 @@ ul {
     list-style-type: none;
     background: azure;
     width: 100px; 
+    padding: 0;
 }
+
 
 li a:hover {
   background: mediumpurple;
-  display: block;
+  text-allign: center;
 }
 
+li a: {
+  display: block;
+}

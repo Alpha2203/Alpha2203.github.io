@@ -33,3 +33,6 @@ body{
   background-position: center center;
   background-size cover;
 }
+div {
+  background-color: HoneyDew;
+}

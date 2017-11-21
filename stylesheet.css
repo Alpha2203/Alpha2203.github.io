@@ -25,3 +25,11 @@ li a: {
   margin: 0;
 }
 
+html {
+  height: 100%;
+}
+body{
+  background-image: url('https://s-media-cache-ak0.pinimg.com/originals/5a/47/1b/5a471bf053576af450181ffe1f5fc74b.jpg');
+  background-position: center center;
+  background-size cover;
+}
